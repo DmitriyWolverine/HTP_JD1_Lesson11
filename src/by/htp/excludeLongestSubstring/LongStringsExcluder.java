@@ -33,5 +33,4 @@ public class LongStringsExcluder {
 	public String cutString() {
 		return text.replaceAll(findLongestSubstring(), "");
 	}
-	
 }
