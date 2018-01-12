@@ -23,5 +23,4 @@ public class FrequencyCounter {
 		}
 		return map;
 	}
-	
 }
